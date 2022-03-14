@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
+  background-color: black;
+}
+
+h1 {
+  margin-top: 60px;
+  font-weight: normal;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  text-shadow: 0 0 5px rgb(219, 219, 223), 0 0 10px #FFF, 0 0 15px rgb(190, 190, 218), 0 0 20px #0011ff, 0 0 30px #181cff, 0 0 40px #181cff, 0 0 55px #182fff, 0 0 75px #1827ff;
+}
